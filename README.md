@@ -1,6 +1,6 @@
 # Local AI Chatbot
 
-A small beginner-friendly chatbot project made with Python, Streamlit, and Ollama.
+A simple chatbot project made with Python, Streamlit, and Ollama.
 It runs on your computer and saves conversations as JSON files.
 
 ## Features
